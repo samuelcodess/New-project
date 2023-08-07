@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hero{
+    
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-size: 65px;
+}
+body{
+    text-align: center;
+    background-color:bisque;
+    
+}
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  .centered-text {
+    max-width: 800px;
+    text-align: center;
+  }
